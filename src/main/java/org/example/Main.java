@@ -7,6 +7,7 @@ public class Main {
         System.out.println("jenkins");
         System.out.println("hello from branch");
         System.out.println("hi new");
-        System.out.println("heeee");
+        System.out.println("resolved");
+      
     }
 }
