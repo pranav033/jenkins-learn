@@ -9,5 +9,8 @@ public class Main {
         System.out.println("hi new");
         System.out.println("this is in branch 2");
         System.out.println("yoyoyo");
+
+        System.out.println("resolved");
+
     }
 }
